@@ -1,1 +1,1 @@
-# doubanSpider
+# quite self-explanatory
